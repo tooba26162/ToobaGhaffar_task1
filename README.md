@@ -1,4 +1,4 @@
 # task1
 
 # Project Screenshots
-![Local Image](D:/Pics/home.png)
+![Local Image](D:/pics/home.png)
